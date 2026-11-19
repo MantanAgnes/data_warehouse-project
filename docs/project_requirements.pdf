@@ -1,1 +1,24 @@
 
+## Project Overview
+
+**Project:** End-to-End SQL Data Warehouse and Sales Analytics
+
+**Technology:** Microsoft SQL Server, T-SQL
+
+### Objective
+Designed and developed a SQL-based data warehouse to integrate sales data from ERP and CRM systems, improve data quality, and enable business reporting and analytics.
+
+### Data Engineering
+- Imported ERP and CRM data from CSV files.
+- Implemented data cleansing and transformation processes.
+- Integrated multiple data sources into a unified data model.
+- Prepared structured datasets for efficient analytical queries.
+
+### Data Analytics
+- Analysed customer purchasing behaviour.
+- Evaluated product performance.
+- Identified sales trends and business patterns.
+- Developed SQL queries to generate actionable business insights.
+
+### Business Value
+The project demonstrates how raw business data can be transformed into reliable, structured information that supports data-driven decision-making.
