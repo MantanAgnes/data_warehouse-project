@@ -183,37 +183,6 @@ The analytics component focuses on three major business areas.
 - Cumulative sales analysis.
 - Year-over-year performance.
 
----
-
-## 📁 Repository Structure
-
-```text
-sql-data-warehouse-project/
-│
-├── datasets/
-│   ├── source_crm/
-│   └── source_erp/
-│
-├── scripts/
-│   ├── bronze/
-│   ├── silver/
-│   └── gold/
-│
-├── analytics/
-│
-├── docs/
-│   ├── high_level_architecture.png
-│   ├── data_flow.png
-│   ├── data_integration.png
-│   ├── data_layers.pdf
-│   └── data_model.png
-│
-└── README.md
-```
-
-*Adjust the folder structure to match your actual repository.*
-
----
 
 ## 🚀 How to Run the Project
 
@@ -247,17 +216,6 @@ This project demonstrates practical experience in:
 - SQL-based analytical reporting.
 - Technical documentation and version control.
 
----
-
-## 📚 Acknowledgements
-
-This project was developed as a hands-on SQL Data Warehouse learning exercise.
-
-**Learning Reference:** Data With Baraa — SQL Data Warehouse Project.
-
-The implementation and documentation in this repository represent my own project work.
-
----
 
 ## 👤 Author
 
